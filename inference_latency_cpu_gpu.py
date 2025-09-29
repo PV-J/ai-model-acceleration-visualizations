@@ -6,3 +6,4 @@ plt.bar(devices, times, color=['red', 'green'])
 plt.title('Inference Latency: CPU vs GPU')
 plt.ylabel('Latency (ms)')
 plt.show()
+
