@@ -7,3 +7,4 @@ plt.xlabel('Batch Size')
 plt.ylabel('Samples per second')
 plt.grid(True)
 plt.show()
+
